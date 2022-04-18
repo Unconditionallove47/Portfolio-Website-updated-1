@@ -1,0 +1,57 @@
+body {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:25px;
+
+}
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:25px;
+  color:rgb(195, 197, 196);
+  
+}
+
+h4 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size:25px;
+  color: black;
+
+}
+
+nav {
+display:flex;
+flex-direction: row;
+justify-content: space-between;
+}
+
+
+section {
+background-color: rgb(65, 49, 42);
+display:flex;
+justify-content: space-between;
+flex-direction:row;
+flex-wrap: wrap;
+}
+
+footer {
+background-color: rgb(65, 49, 42);
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+
+}
+
+
+@media screen and (max-width: 992px) {
+    .images{
+    width:100%
+    }
+}
+
+
+@media screen and (max-width: 400px) {
+  .images{
+    width:50%
+  }
+}
+
