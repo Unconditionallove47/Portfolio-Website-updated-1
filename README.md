@@ -18,3 +18,4 @@ Page is mostly web responsive but havent gotten my pictures to work below a very
 
 Used a similar color pallete to the one i chose for our project 1(brown and greys are easy on the eyes)
 
+Also have attempted to recreate my whole website from a basic level and not use javascript( we werent using it at the time of the first creation)
